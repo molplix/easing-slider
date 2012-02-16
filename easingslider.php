@@ -616,7 +616,7 @@ function modify_menu() {
 	add_menu_page(
 	'Easing Slider',
 	'Easing Slider',
-	'editor',
+	'edit_pages',
 	'easing-slider/easingslider.php',
 	'admin_easing'
 	);
